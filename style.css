@@ -93,3 +93,19 @@ body::before {
   font-size: 10px;
   font-weight: 400;
 }
+
+.valid {
+  color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 700;
+  position: absolute;
+  bottom: 30px;
+  left: 220px;
+  text-transform: uppercase;
+}
+
+.valid span {
+  font-size: 10px;
+  font-weight: 400;
+}
