@@ -43,3 +43,13 @@ body::before {
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
   z-index: 1;
 }
+
+.name {
+  color: white;
+  font-size: 28px;
+  font-family: monospace;
+  position: absolute;
+  top: 38px;
+  right: 30px;
+  font-weight: 400;
+}
