@@ -53,3 +53,10 @@ body::before {
   right: 30px;
   font-weight: 400;
 }
+
+.chip {
+  width: 50px;
+  position: absolute;
+  top: 100px;
+  left: 40px;
+}
