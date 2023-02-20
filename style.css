@@ -77,3 +77,13 @@ body::before {
   bottom: 100px;
   left: 40px;
 }
+
+.card-holder {
+  color: white;
+  font-size: 36px;
+  font-family: "OCR";
+  font-weight: 400;
+  position: absolute;
+  bottom: 100px;
+  left: 40px;
+}
