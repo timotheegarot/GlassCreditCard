@@ -109,3 +109,10 @@ body::before {
   font-size: 10px;
   font-weight: 400;
 }
+
+.logo {
+  width: 70px;
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+}
