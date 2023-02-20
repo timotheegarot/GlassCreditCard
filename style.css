@@ -80,10 +80,16 @@ body::before {
 
 .card-holder {
   color: white;
-  font-size: 36px;
-  font-family: "OCR";
-  font-weight: 400;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 700;
   position: absolute;
-  bottom: 100px;
-  left: 40px;
+  bottom: 30px;
+  left: 30px;
+  text-transform: uppercase;
+}
+
+.card-holder span {
+  font-size: 10px;
+  font-weight: 400;
 }
